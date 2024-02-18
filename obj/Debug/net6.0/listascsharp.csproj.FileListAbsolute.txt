@@ -1,0 +1,30 @@
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\listas\listascsharp\bin\Debug\net6.0\listascsharp.exe
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\listas\listascsharp\bin\Debug\net6.0\listascsharp.deps.json
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\listas\listascsharp\bin\Debug\net6.0\listascsharp.runtimeconfig.json
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\listas\listascsharp\bin\Debug\net6.0\listascsharp.dll
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\listas\listascsharp\bin\Debug\net6.0\listascsharp.pdb
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\listas\listascsharp\obj\Debug\net6.0\listascsharp.csproj.AssemblyReference.cache
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\listas\listascsharp\obj\Debug\net6.0\listascsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\listas\listascsharp\obj\Debug\net6.0\listascsharp.AssemblyInfoInputs.cache
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\listas\listascsharp\obj\Debug\net6.0\listascsharp.AssemblyInfo.cs
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\listas\listascsharp\obj\Debug\net6.0\listascsharp.csproj.CoreCompileInputs.cache
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\listas\listascsharp\obj\Debug\net6.0\listascsharp.dll
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\listas\listascsharp\obj\Debug\net6.0\refint\listascsharp.dll
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\listas\listascsharp\obj\Debug\net6.0\listascsharp.pdb
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\listas\listascsharp\obj\Debug\net6.0\listascsharp.genruntimeconfig.cache
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\listas\listascsharp\obj\Debug\net6.0\ref\listascsharp.dll
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\listas\listascsharp\bin\Debug\net6.0\listascsharp.exe
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\listas\listascsharp\bin\Debug\net6.0\listascsharp.deps.json
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\listas\listascsharp\bin\Debug\net6.0\listascsharp.runtimeconfig.json
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\listas\listascsharp\bin\Debug\net6.0\listascsharp.dll
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\listas\listascsharp\bin\Debug\net6.0\listascsharp.pdb
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\listas\listascsharp\obj\Debug\net6.0\listascsharp.csproj.AssemblyReference.cache
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\listas\listascsharp\obj\Debug\net6.0\listascsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\listas\listascsharp\obj\Debug\net6.0\listascsharp.AssemblyInfoInputs.cache
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\listas\listascsharp\obj\Debug\net6.0\listascsharp.AssemblyInfo.cs
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\listas\listascsharp\obj\Debug\net6.0\listascsharp.csproj.CoreCompileInputs.cache
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\listas\listascsharp\obj\Debug\net6.0\listascsharp.dll
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\listas\listascsharp\obj\Debug\net6.0\refint\listascsharp.dll
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\listas\listascsharp\obj\Debug\net6.0\listascsharp.pdb
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\listas\listascsharp\obj\Debug\net6.0\listascsharp.genruntimeconfig.cache
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\listas\listascsharp\obj\Debug\net6.0\ref\listascsharp.dll
